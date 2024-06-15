@@ -36,7 +36,6 @@ public:
         result.push_back(i);
         return result;
       }
-      // Store the index of the current element of array in the hash map
       hash_map[nums[i]] = i;
     }
     return result;
