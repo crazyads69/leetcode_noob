@@ -34,7 +34,7 @@ I welcome contributions! If you have suggestions for improvements or alternative
 If you have any questions or just want to connect, feel free to reach out:
 
 - **Email:** [trilm@tensoract.io](mailto:trilm@tensoract.io)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/trilm/)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/trilm/)
 
 Happy coding! 🚀
 
