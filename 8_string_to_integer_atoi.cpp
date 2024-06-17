@@ -57,7 +57,7 @@ public:
 // This version uses a string stream to read the number directly from the
 // string. This automatically handles leading whitespace and the optional sign,
 // and stops reading when it encounters a non-digit character. It's a lot less
-// code, but it does essentially the same thing as your original solution.
+// code, but it does essentially the same thing as original solution.
 // The only difference is that it doesn't handle overflow explicitly, it just
 // relies on the fact that the stream will stop reading when it encounters a
 // non-digit character. If the number is too large, the stream will stop reading
