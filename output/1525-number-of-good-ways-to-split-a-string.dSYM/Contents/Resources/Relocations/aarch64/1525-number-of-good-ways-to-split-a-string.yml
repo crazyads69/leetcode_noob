@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/trilm/Project/leetcode/output/1525-number-of-good-ways-to-split-a-string'
+relocations:     []
+...
